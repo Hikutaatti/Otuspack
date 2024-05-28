@@ -1,0 +1,7 @@
+﻿{
+  "pack": {
+    "pack_format": 21,
+    "description": "",
+    "supported_formats": {"min_inclusive": 1, "max_inclusive": 300}
+  }
+}
